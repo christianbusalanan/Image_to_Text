@@ -23,6 +23,11 @@ OCR is a technology that extracts text from images. In this project, we utilize 
 
 1. **Loading Image**:
 
-   ```bash
-   git clone https://github.com/yourusername/image-to-text.git
-   cd image-to-text
+   ![Example Image](https://github.com/christianbusalanan/image_to_text/blob/main/atomichabits%20(1).jpg)
+
+   This is a sample image input
+2. **Converting Image to Text**
+   
+   ![Example Image](https://github.com/christianbusalanan/image_to_text/blob/main/sample_output.PNG)
+   
+   This is the output, and can now be copied and pasted.
